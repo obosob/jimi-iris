@@ -1,5 +1,6 @@
 RGBLIGHT_ENABLE = yes
 BACKLIGHT_ENABLE = yes
+COMMAND_ENABLE = no
 
 # VIA Support - Comment these 3 lines out to disable
 RAW_ENABLE = yes
